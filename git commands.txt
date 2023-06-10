@@ -1,0 +1,20 @@
+One time commands
+
+
+git init --> intialize git 
+git remote add origin ->link<- --> Link git with github repo 
+
+Repeated commands
+
+git push -u origin master --> Push the data of master commit to github repository 
+git add . --> add entries into git 
+git commit -m"message" --> save all the committs into git 
+
+
+Extra commands 
+
+
+git status --> Gives out the status of git folder 
+git log --> gives the back track of the git folder 
+git checkout < commit id > --> Navigate to the entered commit id 
+git clone -> link <- --> Clone the any public repo along with its commit history 
